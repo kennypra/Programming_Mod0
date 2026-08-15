@@ -1,7 +1,5 @@
 # Mod 0 Programming Bootcamp
 
-Welcome to my **Mod 0 Programming Bootcamp** repository!
-
 This repository documents my work throughout Mod 0 as we get up to speed with the cohort and build a strong programming foundation for coursework in the **Master's of Data Science program at Vanderbilt University**.
 
 ## Purpose
